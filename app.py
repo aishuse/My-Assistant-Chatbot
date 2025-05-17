@@ -7,7 +7,9 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
 # Load environment variables
-load_dotenv()
+# load_dotenv()
+groq_api_key = os.getenv("GROQ_API_KEY")
+
 
 # Load profile text
 base_dir = os.path.dirname(os.path.abspath(__file__))
