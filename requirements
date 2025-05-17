@@ -6,3 +6,4 @@ groq
 langchain-groq>=0.1.0
 python-dotenv
 openai
+git+https://github.com/langchain-ai/langchain-groq.git
