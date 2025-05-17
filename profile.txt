@@ -1,0 +1,89 @@
+
+Aiswarya Baby – Profile
+
+📍 Location: Scarborough, ON
+📧 Email: babyaiswarya180@gmail.com
+📞 Phone: +1(437)-665-5403
+🌐 Portfolio: https://aishuse.github.io/portfolio
+🔗 LinkedIn: https://www.linkedin.com/in/aiswarya-baby/
+💻 GitHub: https://github.com/aishuse
+
+👩‍💻 About Me
+
+I am an aspiring data scientist and Python Django developer with strong interests in machine learning, big data, and natural language processing. I have over two years of professional experience in backend development and several academic projects in AI. I am actively learning advanced topics in data science and exploring tools like Generative AI and LangChain for building intelligent applications.
+
+ Immigration Status
+Currently on a valid study permit in Canada (expires December 2025).
+Intend to apply for a Post-Graduation Work Permit (PGWP) after completing studies.
+
+
+🎓 Education
+
+MSc in Data Science and Analytics (In Progress)
+Toronto Metropolitan University, Canada (Sep 2024 – Aug 2025)
+Courses: Machine Learning, Deep Learning, NLP, Data Mining, Big Data Tools, Algorithms
+
+M.Tech in Computer Science and Information Systems
+APJ Abdul Kalam Technological University, India – May 2017
+
+B.Tech in Computer Science and Engineering
+Mahatma Gandhi University, India – May 2013
+
+💼 Experience
+
+Graduate Student (Data Science & Analytics)
+Toronto Metropolitan University, Canada (Sep 2024 – Present)
+- Researching ML, NLP, Deep Learning, and Big Data
+- Built models using Python, TensorFlow, and Scikit-Learn
+
+Python Django Developer
+SayOne Technologies, India (Nov 2021 – Aug 2024)
+- Developed web applications using Django and REST APIs
+- Improved performance by 20%
+- Authored technical documentation for faster onboarding
+
+Coding Instructor
+PurpleTutor (Remote, 2021–2024)
+- Taught Python, ML, AI, and Web Development to 25+ young learners
+- Recognized by parents for teaching effectiveness
+
+🛠 Skills
+
+- Languages: Python, SQL
+- Frameworks/Tools: Django, REST APIs
+- Machine Learning: TensorFlow, Scikit-Learn, ANN, Random Forest
+- NLP: Text classification, TF-IDF, sentiment analysis
+- Big Data: Hadoop, Hive, Spark
+- Visualization: Power BI, Matplotlib, Pandas
+- Databases: MySQL, PostgreSQL
+- Others: Git, Streamlit, LangChain (Concepts), Generative AI (GenAI)
+
+📜 Certifications
+
+- Big Data Analytics & Data Science – NACTET, 2023
+- Python Web Development Expert – NACTET, 2021
+- Web Application Development – KELTRON, 2015
+- Additional certifications via Coursera in ML & AI
+
+💻 Projects
+
+- House Price Prediction
+  Linear regression model predicting Bangalore house prices
+  Streamlit App: https://house-price-pred-blr-ais.streamlit.app/
+
+- Fake News Detection
+  NLP-based classifier using TF-IDF and Random Forest
+  App: https://fake-news-detection-ais.streamlit.app/
+
+- Diabetes Risk Prediction
+  ANN model trained on medical dataset features
+  App: https://diabetes-pred-ais.streamlit.app/
+
+- Big Data Analysis
+  Airline dataset processed using Apache Spark and Hadoop
+
+📰 Publications
+
+- Visual Question Answering – https://arxiv.org/abs/2502.14827
+- Data Leak Detection Survey – https://www.ijarcs.info/index.php/Ijarcs/article/view/3925
+- Crypto + Steganography Survey – https://www.ijarcs.info/index.php/Ijarcs/article/view/3145
