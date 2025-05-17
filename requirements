@@ -1,9 +1,8 @@
 streamlit
-langchain
+langchain>=0.1.13
 langchain-core
-langchain-community 
+langchain-community
 groq
-langchain-groq
+langchain-groq>=0.1.0
 python-dotenv
 openai
-
