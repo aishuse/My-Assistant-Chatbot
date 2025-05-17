@@ -1,9 +1,5 @@
-streamlit
-langchain>=0.1.13
-langchain-core
-langchain-community
-groq
-langchain-groq>=0.1.0
-python-dotenv
-openai
-git+https://github.com/langchain-ai/langchain-groq.git
+streamlit==1.33.0
+langchain-groq==0.1.1
+langchain-community==0.0.29
+langchain-core==0.1.45
+python-dotenv==1.0.0
