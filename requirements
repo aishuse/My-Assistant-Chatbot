@@ -10,3 +10,4 @@ numpy
 scikit-learn
 
 streamlit
+langchain-groq
