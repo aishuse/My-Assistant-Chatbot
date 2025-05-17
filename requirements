@@ -1,14 +1,6 @@
-# LangChain Core
-langchain
-langchain-core
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
-
 streamlit
+langchain
 langchain-groq
+python-dotenv
+openai
 groq
