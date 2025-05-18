@@ -1,14 +1,11 @@
 import streamlit as st
-# from dotenv import load_dotenv
 import os
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
 # Load environment variables
-# load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")
-
 
 # Load profile text
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -20,54 +17,74 @@ if os.path.exists(profile_path):
 else:
     profile_text = "No profile found."
 
-# Initialize model
+# Initialize LangChain model
 model = ChatGroq(temperature=0.7, model_name="llama3-70b-8192")
 parser = StrOutputParser()
 
 # Prompt template
 chat_template = ChatPromptTemplate.from_messages([
-("system", "You are a helpful and conversational AI assistant. Answer user questions confidently and directly based on Aiswarya Baby’s profile below. If asked whether something was created by her, and the profile confirms it, clearly say 'yes' in your reply. Provide short, friendly, and informative answers.\n\n{profile}"),
+    ("system", "You are a helpful and conversational AI assistant. Answer user questions confidently and directly based on Aiswarya Baby’s profile below. If asked whether something was created by her, and the profile confirms it, clearly say 'yes' in your reply. Provide short, friendly, and informative answers.\n\n{profile}"),
     ("human", "{input}")
 ])
-
 chain = chat_template | model | parser
 
-# Streamlit app UI
-st.set_page_config(page_title="Ask About Aiswarya", page_icon="🤖", layout="wide")
+# --- Streamlit UI ---
+st.set_page_config(page_title="Aiswarya’s AI Assistant", page_icon="🤖", layout="centered")
 
-# Profile Header
+# Custom CSS for better styling
 st.markdown("""
     <style>
+        body {
+            background-color: #0f1117;
+        }
         .title {
-            font-size: 36px;
+            font-size: 40px;
             font-weight: bold;
-            color: #FF6347;
             text-align: center;
+            color: #FF4B4B;
+            margin-bottom: 10px;
         }
         .subtitle {
-            font-size: 20px;
+            font-size: 18px;
             text-align: center;
-            color: #dddddd;
+            color: #cccccc;
+            margin-bottom: 30px;
         }
-        .chat-style {
-            background-color: #1c1c1c;
-            padding: 10px;
+        .chat-bubble {
+            background-color: #1e1e1e;
             border-radius: 10px;
-            color: #ffffff;
+            padding: 15px;
+            color: #f0f0f0;
+            margin: 10px 0;
+        }
+        .user {
+            border-left: 4px solid #FF4B4B;
+        }
+        .ai {
+            border-left: 4px solid #1E90FF;
+        }
+        .stTextInput > div > input {
+            color: white;
+            background-color: #2a2a2a;
+        }
+        .stButton>button {
+            background-color: #FF4B4B;
+            color: white;
         }
     </style>
 """, unsafe_allow_html=True)
 
-# st.image("aiswarya.jpg", width=160)
-st.markdown('<div class="title">Ask My AI Chatbot 🤖</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Ask anything about Aiswarya Baby’s profile, education, skills, or experience</div>', unsafe_allow_html=True)
+# Header
+st.markdown('<div class="title">Aiswarya’s AI Assistant 🤖</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Ask anything about Aiswarya Baby’s profile, skills, projects, or experience</div>', unsafe_allow_html=True)
 st.markdown("---")
 
-# Chat Interface
+# Chat Form
 with st.form("chat_form", clear_on_submit=True):
     user_input = st.text_input("Ask a question:")
     submitted = st.form_submit_button("Send")
 
+# Handle submission
 if submitted and user_input:
     try:
         with st.spinner("Thinking..."):
@@ -75,6 +92,9 @@ if submitted and user_input:
                 "profile": profile_text,
                 "input": user_input
             })
-        st.markdown(f"<div class='chat-style'><b>You:</b> {user_input}<br><b>AI:</b> {response}</div>", unsafe_allow_html=True)
+
+        st.markdown(f"<div class='chat-bubble user'><strong>You:</strong> {user_input}</div>", unsafe_allow_html=True)
+        st.markdown(f"<div class='chat-bubble ai'><strong>AI:</strong> {response}</div>", unsafe_allow_html=True)
+
     except Exception as e:
-        st.error(f"Error: {e}")
+        st.error(f"❌ Error: {e}")
