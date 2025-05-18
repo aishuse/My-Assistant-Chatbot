@@ -28,40 +28,43 @@ chat_template = ChatPromptTemplate.from_messages([
 ])
 chain = chat_template | model | parser
 
-# --- Streamlit UI ---
-st.set_page_config(page_title="Aiswarya’s AI Assistant", page_icon="🤖", layout="centered")
+# Set Streamlit page config
+st.set_page_config(page_title="Aiswarya’s AI Assistant", page_icon="🤖", layout="wide")
 
-# Custom CSS for better styling
+# Custom CSS for wider layout and better styling
 st.markdown("""
     <style>
-        body {
-            background-color: #0f1117;
+        .main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
         }
         .title {
-            font-size: 40px;
+            font-size: 44px;
             font-weight: bold;
             text-align: center;
             color: #FF4B4B;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
         }
         .subtitle {
-            font-size: 18px;
+            font-size: 20px;
             text-align: center;
-            color: #cccccc;
+            color: #bbbbbb;
             margin-bottom: 30px;
         }
         .chat-bubble {
             background-color: #1e1e1e;
             border-radius: 10px;
-            padding: 15px;
+            padding: 16px;
             color: #f0f0f0;
             margin: 10px 0;
+            font-size: 16px;
         }
         .user {
-            border-left: 4px solid #FF4B4B;
+            border-left: 5px solid #FF4B4B;
         }
         .ai {
-            border-left: 4px solid #1E90FF;
+            border-left: 5px solid #1E90FF;
         }
         .stTextInput > div > input {
             color: white;
@@ -74,27 +77,27 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Header
-st.markdown('<div class="title">Aiswarya’s AI Assistant 🤖</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Ask anything about Aiswarya Baby’s profile, skills, projects, or experience</div>', unsafe_allow_html=True)
-st.markdown("---")
+# App content wrapper
+with st.container():
+    st.markdown('<div class="title">Aiswarya’s AI Assistant 🤖</div>', unsafe_allow_html=True)
+    st.markdown('<div class="subtitle">Ask anything about Aiswarya Baby’s profile, skills, projects, or experience</div>', unsafe_allow_html=True)
+    st.markdown("---")
 
-# Chat Form
-with st.form("chat_form", clear_on_submit=True):
-    user_input = st.text_input("Ask a question:")
-    submitted = st.form_submit_button("Send")
+    # Chat form
+    with st.form("chat_form", clear_on_submit=True):
+        user_input = st.text_input("Ask a question:")
+        submitted = st.form_submit_button("Send")
 
-# Handle submission
-if submitted and user_input:
-    try:
-        with st.spinner("Thinking..."):
-            response = chain.invoke({
-                "profile": profile_text,
-                "input": user_input
-            })
+    if submitted and user_input:
+        try:
+            with st.spinner("Thinking..."):
+                response = chain.invoke({
+                    "profile": profile_text,
+                    "input": user_input
+                })
 
-        st.markdown(f"<div class='chat-bubble user'><strong>You:</strong> {user_input}</div>", unsafe_allow_html=True)
-        st.markdown(f"<div class='chat-bubble ai'><strong>AI:</strong> {response}</div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='chat-bubble user'><strong>You:</strong> {user_input}</div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='chat-bubble ai'><strong>AI:</strong> {response}</div>", unsafe_allow_html=True)
 
-    except Exception as e:
-        st.error(f"❌ Error: {e}")
+        except Exception as e:
+            st.error(f"❌ Error: {e}")
