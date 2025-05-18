@@ -1,7 +1,7 @@
-streamlit==1.33.0
-langchain-groq==0.1.1
-langchain-core==0.1.45
-pydantic==1.10.15  # Lock to v1
-pydantic-settings==1.10.3  # Last version compatible with Pydantic v1
-orjson==3.9.10  # Pre-built wheel (no Rust required)
-rich==13.7.1  # Compatible with Streamlit 1.33.0
+streamlit
+langchain-groq
+langchain-core
+pydantic
+pydantic-settings
+orjson
+rich
