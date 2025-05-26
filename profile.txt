@@ -70,3 +70,6 @@ PUBLICATIONS
 • Combined Strength of Cryptography and Steganography - A Literature Survey | [https://www.ijarcs.info/index.php/Ijarcs/article/view/3145](https://www.ijarcs.info/index.php/Ijarcs/article/view/3145)
 
 Note: Actively learning new technologies related to data science, including FastAPI.
+
+PERSONAL INTERESTS
+Dance, avid music lover, enthusiastic traveler, movie buff, active social media user, and enjoys quality time with her child.
