@@ -1,92 +1,72 @@
+AISWARYA BABY
+Scarborough, ON | [babyaiswarya180@gmail.com](mailto:babyaiswarya180@gmail.com) | +1(437)-665-5403
+Portfolio: [https://aishuse.github.io/portfolio/](https://aishuse.github.io/portfolio/) | LinkedIn: [https://www.linkedin.com/in/aiswarya-baby/](https://www.linkedin.com/in/aiswarya-baby/) | GitHub: [https://github.com/aishuse](https://github.com/aishuse)
+Aspiring Data Scientist | Machine Learning Enthusiast | Python Django Developer | FastAPI Learner
 
-Aiswarya Baby – Profile
+SUMMARY OF QUALIFICATIONS
+• Python Django Developer (2+ years) – Designed, enhanced, and maintained scalable web applications using Python and Django.
+• Machine Learning & AI – Gained academic experience in building and evaluating predictive models with TensorFlow and Scikit-Learn, focusing on data preprocessing and feature engineering.
+• Natural Language Processing, Transformers & Generative AI – Developing academic expertise in NLP, transformers, and generative AI concepts for tasks such as text classification, sentiment analysis, and language modeling.
+• LangChain & Retrieval-Augmented Generation (RAG) – Developing practical experience by building intelligent applications using LangChain and RAG pipelines for context-aware question answering and chatbot systems.
+• Big Data & Analytics – Gained academic experience in Hadoop, Spark, and Hive for large-scale data processing and analysis.
+• Data Science & Visualization – Familiar with Power BI, Matplotlib, and Pandas, with academic experience in deriving data-driven insights and supporting decision-making.
+• SQL & Database Management – Skilled in writing complex SQL queries for efficient data retrieval and transformation.
+• Problem-Solving & Collaboration – Strong analytical thinking, adaptability, and teamwork to develop AI-driven solutions while staying updated with the latest advancements.
 
-📍 Location: Scarborough, ON
-📧 Email: babyaiswarya180@gmail.com
-📞 Phone: +1(437)-665-5403
-🌐 Portfolio: https://aishuse.github.io/portfolio
-🔗 LinkedIn: https://www.linkedin.com/in/aiswarya-baby/
-💻 GitHub: https://github.com/aishuse
-
-👩‍💻 About Me
-
-I am an aspiring data scientist and Python Django developer with strong interests in machine learning, big data, and natural language processing. I have over two years of professional experience in backend development and several academic projects in AI. I am actively learning advanced topics in data science and exploring tools like Generative AI and LangChain for building intelligent applications.
-
- Immigration Status
+IMMIGRATION STATUS
 Currently on a valid study permit in Canada (expires December 2025).
 Intend to apply for a Post-Graduation Work Permit (PGWP) after completing studies.
 
+EDUCATION
+MSc Data Science and Analytics (In Progress)
+September 2024 – August 2025
+Toronto Metropolitan University, Toronto, Canada
+Relevant Courses: Machine Learning, Deep Learning, NLP, Data Mining, Big Data & Tools, Des Algorithm & Programming
 
-🎓 Education
+M.Tech Computer Science and Information Systems
+May 2017
+APJ Abdul Kalam Technological University, Kerala, India
 
-MSc in Data Science and Analytics (In Progress)
-Toronto Metropolitan University, Canada (Sep 2024 – Aug 2025)
-Courses: Machine Learning, Deep Learning, NLP, Data Mining, Big Data Tools, Algorithms
+B.Tech Computer Science and Engineering
+May 2013
+Mahatma Gandhi University, Kerala, India
 
-M.Tech in Computer Science and Information Systems
-APJ Abdul Kalam Technological University, India – May 2017
-
-B.Tech in Computer Science and Engineering
-Mahatma Gandhi University, India – May 2013
-
-💼 Experience
-
-Graduate Student (Data Science & Analytics)
-Toronto Metropolitan University, Canada (Sep 2024 – Present)
-- Researching ML, NLP, Deep Learning, and Big Data
-- Built models using Python, TensorFlow, and Scikit-Learn
+EXPERIENCE
+Graduate Student | Data Science & Analytics
+September 2024 – Present
+Toronto Metropolitan University, Toronto, Canada
+• Conducting research in Machine learning, Deep Learning, NLP, and Big data analytics to support academic projects.
+• Completed academic projects involving predictive modeling using Python, TensorFlow, and Scikit-Learn.
 
 Python Django Developer
-SayOne Technologies, India (Nov 2021 – Aug 2024)
-- Developed web applications using Django and REST APIs
-- Improved performance by 20%
-- Authored technical documentation for faster onboarding
+November 2021 – August 2024
+SayOne Technologies, Kochi, India
+• Developed and maintained web applications using Python and Django, improving system efficiency by 20%.
+• Built RESTful APIs to support front-end applications and fixed bugs in applications to enhance performance and scalability.
+• Designed structured technical documentation, reducing onboarding time for new developers by 30%.
 
 Coding Instructor
-PurpleTutor (Remote, 2021–2024)
-- Taught Python, ML, AI, and Web Development to 25+ young learners
-- Recognized by parents for teaching effectiveness
+2021 – 2024
+PurpleTutor, Remote
+• Taught Python, Machine Learning, AI, and web development basics to over 25+ young students.
+• Received appreciation from students' parents for effective teaching and mentoring.
 
-🛠 Skills
+TRAINING & CERTIFICATIONS
+• Big Data Analytics & Data Science – Certified by National Council for Technology and Training (NACTET), completed at Luminar Technolab, 2023
+• Python - Web Development Expert – Certified by National Council for Technology and Training (NACTET), completed at Luminar Technolab, 2021
+• Web Application Development – Certified by KELTRON, completed at KELTRON (2015)
+• Completed various courses in Data Science, Machine Learning, and AI through Coursera.
 
-- Languages: Python, SQL
-- Frameworks/Tools: Django, REST APIs
-- Machine Learning: TensorFlow, Scikit-Learn, ANN, Random Forest
-- NLP: Text classification, TF-IDF, sentiment analysis
-- Big Data: Hadoop, Hive, Spark
-- Visualization: Power BI, Matplotlib, Pandas
-- Databases: MySQL, PostgreSQL
-- Version Control & Deployment: Git, Streamlit
-- AI Frameworks & Concepts: LangChain , Generative AI (GenAI)
+PROJECTS
+• Developed a multi-modal VQA model integrating CNN, LSTM, and cross-modal attention for image-question understanding. | GitHub: [https://github.com/aishuse/Visual-Question-Answering](https://github.com/aishuse/Visual-Question-Answering) | Streamlit: [https://visual-question-answering-ais.streamlit.app/](https://visual-question-answering-ais.streamlit.app/)
+• Built a personalized AI assistant chatbot using LangChain and Streamlit to deliver real-time, context-aware responses about me. | GitHub
+• Implemented an Artificial Neural Network (ANN) model to predict diabetes risk by training on medical dataset features. | GitHub: [https://github.com/aishuse/Machine-Learning-Projects/blob/main/KNN\_diabetes.ipynb](https://github.com/aishuse/Machine-Learning-Projects/blob/main/KNN_diabetes.ipynb) | Streamlit: [https://diabetes-pred-ais.streamlit.app/](https://diabetes-pred-ais.streamlit.app/)
+• A linear regression model to predict house prices in Bangalore by analyzing real estate trends and key pricing factors | GitHub: [https://github.com/aishuse/House-Price-Prediction](https://github.com/aishuse/House-Price-Prediction) | Streamlit: [https://house-price-pred-blr-ais.streamlit.app/](https://house-price-pred-blr-ais.streamlit.app/)
+• Processed and analyzed a large-scale airline dataset to extract insights by utilizing Apache Spark and Hadoop for big data processing.
 
-📜 Certifications
+PUBLICATIONS
+• Exploring Advanced Techniques for Visual Question Answering | [https://arxiv.org/abs/2502.14827](https://arxiv.org/abs/2502.14827)
+• A Literature Survey on Data Leak Detection And Prevention Method | [https://www.ijarcs.info/index.php/Ijarcs/article/view/3925](https://www.ijarcs.info/index.php/Ijarcs/article/view/3925)
+• Combined Strength of Cryptography and Steganography - A Literature Survey | [https://www.ijarcs.info/index.php/Ijarcs/article/view/3145](https://www.ijarcs.info/index.php/Ijarcs/article/view/3145)
 
-- Big Data Analytics & Data Science – NACTET, 2023
-- Python Web Development Expert – NACTET, 2021
-- Web Application Development – KELTRON, 2015
-- Additional certifications via Coursera in ML & AI
-
-💻 Projects
-
-- House Price Prediction
-  Linear regression model predicting Bangalore house prices
-  Streamlit App: https://house-price-pred-blr-ais.streamlit.app/
-
-- Fake News Detection
-  NLP-based classifier using TF-IDF and Random Forest
-  App: https://fake-news-detection-ais.streamlit.app/
-
-- Diabetes Risk Prediction
-  ANN model trained on medical dataset features
-  App: https://diabetes-pred-ais.streamlit.app/
-
-- Big Data Analysis
-  Airline dataset processed using Apache Spark and Hadoop
-
--Ask My AI Chatbot 
-A personalized AI chatbot built using LangChain, Llama 3, and Streamlit that answers questions based on uploaded profile data.
-📰 Publications
-
-- Visual Question Answering – https://arxiv.org/abs/2502.14827
-- Data Leak Detection Survey – https://www.ijarcs.info/index.php/Ijarcs/article/view/3925
-- Crypto + Steganography Survey – https://www.ijarcs.info/index.php/Ijarcs/article/view/3145
+Note: Actively learning new technologies related to data science, including FastAPI.
