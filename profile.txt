@@ -72,4 +72,4 @@ PUBLICATIONS
 Note: Actively learning new technologies related to data science, including FastAPI.
 
 PERSONAL INTERESTS
-Dance, avid music lover, enthusiastic traveler, movie buff, active social media user, and enjoys quality time with her child.
+Dance, avid music lover, enthusiastic traveler, movie buff, and enjoys quality time with her child.
