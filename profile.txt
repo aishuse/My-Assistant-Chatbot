@@ -59,8 +59,8 @@ TRAINING & CERTIFICATIONS
 
 PROJECTS
 • Developed a multi-modal VQA model integrating CNN, LSTM, and cross-modal attention for image-question understanding. | GitHub: [https://github.com/aishuse/Visual-Question-Answering](https://github.com/aishuse/Visual-Question-Answering) | Streamlit: [https://visual-question-answering-ais.streamlit.app/](https://visual-question-answering-ais.streamlit.app/)
-• Built a personalized AI assistant chatbot using LangChain and Streamlit to deliver real-time, context-aware responses about me. | GitHub
-• Implemented an Artificial Neural Network (ANN) model to predict diabetes risk by training on medical dataset features. | GitHub: [https://github.com/aishuse/Machine-Learning-Projects/blob/main/KNN\_diabetes.ipynb](https://github.com/aishuse/Machine-Learning-Projects/blob/main/KNN_diabetes.ipynb) | Streamlit: [https://diabetes-pred-ais.streamlit.app/](https://diabetes-pred-ais.streamlit.app/)
+• Built a personalized AI assistant chatbot using LangChain and Streamlit to deliver real-time, context-aware responses about me. | GitHub : https://my-assistant-chatbot.streamlit.app/ 
+• Implemented an Artificial Neural Network (ANN) model to predict brain tumor by training on medical dataset features. | GitHub: [https://github.com/aishuse/Brain-tumor-classification](https://github.com/aishuse/Brain-tumor-classification) | Streamlit: [https://brain-tumor-class-ais.streamlit.app/](https://brain-tumor-class-ais.streamlit.app/)
 • A linear regression model to predict house prices in Bangalore by analyzing real estate trends and key pricing factors | GitHub: [https://github.com/aishuse/House-Price-Prediction](https://github.com/aishuse/House-Price-Prediction) | Streamlit: [https://house-price-pred-blr-ais.streamlit.app/](https://house-price-pred-blr-ais.streamlit.app/)
 • Processed and analyzed a large-scale airline dataset to extract insights by utilizing Apache Spark and Hadoop for big data processing.
 
