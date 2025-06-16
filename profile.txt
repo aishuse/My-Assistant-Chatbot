@@ -1,76 +1,117 @@
 AISWARYA BABY
-Scarborough, ON | [babyaiswarya180@gmail.com](mailto:babyaiswarya180@gmail.com) | +1(437)-665-5403
-Portfolio: [https://aishuse.github.io/portfolio/](https://aishuse.github.io/portfolio/) | LinkedIn: [https://www.linkedin.com/in/aiswarya-baby/](https://www.linkedin.com/in/aiswarya-baby/) | GitHub: [https://github.com/aishuse](https://github.com/aishuse)
-Aspiring Data Scientist | Machine Learning Enthusiast | Python Django Developer | FastAPI Learner
+Scarborough, ON
+📧 Email: babyaiswarya180@gmail.com
+📞 Phone: +1 (437)-665-5403
+🌐 Portfolio: https://aishuse.github.io/portfolio/
+🔗 LinkedIn: https://www.linkedin.com/in/aiswarya-baby/
+💻 GitHub: https://github.com/aishuse
 
-SUMMARY OF QUALIFICATIONS
-• • Python Django Developer (2+ years) – Designed, enhanced, and maintained scalable web applications using Python and Django.
-• Machine Learning & AI – Gained academic experience in building and evaluating predictive models with TensorFlow and Scikit-Learn, focusing on data preprocessing and feature engineering.
-• Natural Language Processing, Transformers & Generative AI – Developing academic expertise in NLP, transformers, and generative AI concepts for tasks such as text classification, sentiment analysis, and language modeling.
-• Generative & Agentic AI Enthusiast – Practical experience building intelligent applications using LangChain, LangGraph, Agno, and RAG pipelines for context-aware question answering and AI assistants.
-• Big Data & Analytics – Gained academic experience in Hadoop, Spark, and Hive for large-scale data processing and analysis.
-• Data Science & Visualization – Familiar with Power BI, Matplotlib, and Pandas, with academic experience in deriving data-driven insights and supporting decision-making.
-• SQL & Database Management – Skilled in writing complex SQL queries for efficient data retrieval and transformation.
-• Problem-Solving & Collaboration – Strong analytical thinking, adaptability, and teamwork to develop AI-driven solutions while staying updated with the latest advancements.
+Aspiring Data Scientist | Generative AI & Agentic AI Enthusiast | Python Django Developer | FastAPI Learner
 
-IMMIGRATION STATUS
-Currently on a valid study permit in Canada (expires December 2025).
-Intend to apply for a Post-Graduation Work Permit (PGWP) after completing studies.
+🔹 SUMMARY OF QUALIFICATIONS
+Python & Django Developer (2+ years): REST APIs, scalable apps, bug fixes
 
-EDUCATION
-MSc Data Science and Analytics (In Progress)
-September 2024 – August 2025
-Toronto Metropolitan University, Toronto, Canada
-Relevant Courses: Machine Learning, Deep Learning, NLP, Data Mining, Big Data & Tools, Des Algorithm & Programming
+ML/DL/NLP: Scikit-Learn, TensorFlow, Keras, Hugging Face
 
-M.Tech Computer Science and Information Systems
-May 2017
-APJ Abdul Kalam Technological University, Kerala, India
+Generative & Agentic AI: LangChain, LangGraph, Agno, RAG pipelines
 
-B.Tech Computer Science and Engineering
-May 2013
-Mahatma Gandhi University, Kerala, India
+FastAPI & Deployment: Pydantic, Streamlit, Docker, AWS (S3, EC2)
 
-EXPERIENCE
-Graduate Student | Data Science & Analytics
-September 2024 – Present
-Toronto Metropolitan University, Toronto, Canada
-• Conducting research in Machine learning, Deep Learning, NLP, and Big data analytics to support academic projects.
-• Completed academic projects involving predictive modeling using Python, TensorFlow, and Scikit-Learn.
+Big Data Tools: Hadoop, Spark, Hive
+
+Visualization: Pandas, Power BI, Matplotlib
+
+SQL & Databases: Complex queries and optimization
+
+Soft Skills: Collaboration, analytical mindset, mentoring
+
+🔹 IMMIGRATION STATUS
+Valid Study Permit (Canada) – Expires: December 2025
+
+Will apply for Post-Graduation Work Permit (PGWP) after degree
+
+🔹 EDUCATION
+MSc – Data Science and Analytics (In Progress)
+Toronto Metropolitan University | Sep 2024 – Aug 2025
+Courses: ML, DL, NLP, Data Mining, Big Data, Algorithms
+
+M.Tech – Computer Science & Info Systems
+APJ Abdul Kalam Technological University | May 2017
+
+B.Tech – Computer Science and Engineering
+Mahatma Gandhi University | May 2013
+
+🔹 EXPERIENCE
+Graduate Student – Data Science & Analytics
+Toronto Metropolitan University | Sep 2024 – Present
+
+Research in ML, DL, NLP, Big Data
+
+Built predictive models with Python, Scikit-Learn, TensorFlow
 
 Python Django Developer
-November 2021 – August 2024
-SayOne Technologies, Kochi, India
-• Developed and maintained web applications using Python and Django, improving system efficiency by 20%.
-• Built RESTful APIs to support front-end applications and fixed bugs in applications to enhance performance and scalability.
-• Designed structured technical documentation, reducing onboarding time for new developers by 30%.
+SayOne Technologies | Nov 2021 – Aug 2024
+
+Developed Django web apps (20% performance gain)
+
+Created RESTful APIs and wrote developer-friendly documentation
 
 Coding Instructor
-2021 – 2024
-PurpleTutor, Remote
-• Taught Python, Machine Learning, AI, and web development basics to over 25+ young students.
-• Received appreciation from students' parents for effective teaching and mentoring.
+PurpleTutor (Remote) | 2021 – 2024
 
-TRAINING & CERTIFICATIONS
-• Big Data Analytics & Data Science – Certified by National Council for Technology and Training (NACTET), completed at Luminar Technolab, 2023
-• Python - Web Development Expert – Certified by National Council for Technology and Training (NACTET), completed at Luminar Technolab, 2021
-• Web Application Development – Certified by KELTRON, completed at KELTRON (2015)
-• Completed various courses in Data Science, Machine Learning, and AI through Coursera.
+Taught 25+ students Python, ML, and web development
 
-PROJECTS
-• Developed a multi-modal VQA model integrating CNN, LSTM, and cross-modal attention for image-question understanding. | GitHub: [https://github.com/aishuse/Visual-Question-Answering](https://github.com/aishuse/Visual-Question-Answering) | Streamlit: [https://visual-question-answering-ais.streamlit.app/](https://visual-question-answering-ais.streamlit.app/)
-• Built a personalized AI assistant chatbot using LangChain and Streamlit to deliver real-time, context-aware responses about me. | GitHub : https://my-assistant-chatbot.streamlit.app/ 
-• Implemented an Artificial Neural Network (ANN) model to predict brain tumor by training on medical dataset features. | GitHub: [https://github.com/aishuse/Brain-tumor-classification](https://github.com/aishuse/Brain-tumor-classification) | Streamlit: [https://brain-tumor-class-ais.streamlit.app/](https://brain-tumor-class-ais.streamlit.app/)
-• A linear regression model to predict house prices in Bangalore by analyzing real estate trends and key pricing factors | GitHub: [https://github.com/aishuse/House-Price-Prediction](https://github.com/aishuse/House-Price-Prediction) | Streamlit: [https://house-price-pred-blr-ais.streamlit.app/](https://house-price-pred-blr-ais.streamlit.app/)
-• Processed and analyzed a large-scale airline dataset to extract insights by utilizing Apache Spark and Hadoop for big data processing.
-• Built a personalized AI assistant chatbot leveraging LangChain and Retrieval-Augmented Generation (RAG) pipelines to provide real-time, context-aware responses and showcase generative and agentic AI capabilities. | Chatbot: https://my-assistant-chatbot.streamlit.app/
+🔹 PROJECTS
+🧠 Brain Tumor Prediction
+GitHub: https://github.com/aishuse/Brain-tumor-classification
+Streamlit: https://brain-tumor-class-ais.streamlit.app/
 
-PUBLICATIONS
-• Exploring Advanced Techniques for Visual Question Answering | [https://arxiv.org/abs/2502.14827](https://arxiv.org/abs/2502.14827)
-• A Literature Survey on Data Leak Detection And Prevention Method | [https://www.ijarcs.info/index.php/Ijarcs/article/view/3925](https://www.ijarcs.info/index.php/Ijarcs/article/view/3925)
-• Combined Strength of Cryptography and Steganography - A Literature Survey | [https://www.ijarcs.info/index.php/Ijarcs/article/view/3145](https://www.ijarcs.info/index.php/Ijarcs/article/view/3145)
+📸 Visual Question Answering (CNN + LSTM + Attention)
+GitHub: https://github.com/aishuse/Visual-Question-Answering
+Streamlit: https://visual-question-answering-ais.streamlit.app/
 
-Note: Actively learning new technologies related to data science, including FastAPI.
+🏡 Bangalore House Price Prediction
+GitHub: https://github.com/aishuse/House-Price-Prediction
+Streamlit: https://house-price-pred-blr-ais.streamlit.app/
 
-PERSONAL INTERESTS
-Dance, avid music lover, enthusiastic traveler, movie buff, and enjoys quality time with her child.
+💬 AI Assistant Chatbot (LangChain + Streamlit)
+GitHub: https://github.com/aishuse/My-Assistant-Chatbot
+Streamlit: https://my-assistant-chatbot.streamlit.app/
+
+📄 PDF Q&A Assistant (LangChain + FAISS)
+GitHub: https://github.com/aishuse/PDF-Assistant
+Streamlit: https://pdf-assistant-ais.streamlit.app/
+
+🌦️ Travel Assistant (Agno + Groq + Streamlit)
+GitHub: https://github.com/aishuse/Travel-Assistant
+Streamlit: https://travel-assistant-ais.streamlit.app/
+
+🏥 Patient Management System (FastAPI + LangChain+ AWS+ streamlit+ Docker+ Groq )
+GitHub: https://github.com/aishuse/Patient-management-system
+Streamlit: https://patient-management-system-ais.streamlit.app/
+
+📺 YouTube Transcript QA Assistant
+GitHub: https://github.com/aishuse/TranscriptYT
+Streamlit: https://youtube-transcript-chat.streamlit.app/
+
+🔹 PUBLICATIONS
+Exploring Advanced Techniques for Visual Question Answering
+https://arxiv.org/abs/2502.14827
+
+Data Leak Detection and Prevention Survey
+https://www.ijarcs.info/index.php/Ijarcs/article/view/3925
+
+Cryptography + Steganography – A Literature Survey
+https://www.ijarcs.info/index.php/Ijarcs/article/view/3145
+
+🔹 TRAINING & CERTIFICATIONS
+Big Data Analytics & Data Science – NACTET, 2023 (via Luminar Technolab)
+
+Python Web Development Expert – NACTET, 2021 (via Luminar Technolab)
+
+Web App Development – KELTRON, 2015
+
+Several Coursera certifications in DS, ML, and AI
+
+🔹 PERSONAL INTERESTS
+Dance | Music | Travel | Movies | Spending time with my child
