@@ -94,6 +94,8 @@ Streamlit: https://patient-management-system-ais.streamlit.app/
 GitHub: https://github.com/aishuse/TranscriptYT
 Streamlit: https://youtube-transcript-chat.streamlit.app/
 
+working on Bank customer churn prediction as academic project
+
 🔹 PUBLICATIONS
 Exploring Advanced Techniques for Visual Question Answering
 https://arxiv.org/abs/2502.14827
