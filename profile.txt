@@ -13,7 +13,7 @@ Python & Django Developer (2+ years): REST APIs, scalable apps, bug fixes
 
 ML/DL/NLP: Scikit-Learn, TensorFlow, Keras, Hugging Face
 
-Generative & Agentic AI: LangChain, LangGraph, Agno, RAG pipelines
+Generative & Agentic AI: LangChain, LangGraph, Agno, RAG pipelines, Model Context Protocol(MCP)
 
 FastAPI & Deployment: Pydantic, Streamlit, Docker, AWS (S3, EC2)
 
@@ -29,6 +29,8 @@ Soft Skills: Collaboration, analytical mindset, mentoring
 Valid Study Permit (Canada) – Expires: December 2025
 
 Will apply for Post-Graduation Work Permit (PGWP) after degree
+
+my course will end on august 28, 2025. graduation expected on October 16, 2025
 
 🔹 EDUCATION
 MSc – Data Science and Analytics (In Progress)
